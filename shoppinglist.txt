@@ -5,3 +5,4 @@ banana
 grapes
 almond
 dates
+watermelon
